@@ -12,10 +12,11 @@
 - 📚 I’m currently learning  Python, Java and HTML5.
 - 👀 I am currently looking for an opportunity to enter the world of technology.
 
+<hr>
 
 <h4>How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/juan-camilo-betancourt-monsalve-977567209" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:jcbetanm@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<hr>
+
