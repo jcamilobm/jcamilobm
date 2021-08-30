@@ -1,4 +1,3 @@
-<hr>
 
 <h1> Hi there 👋 </h1>
 <h3> I'm Juan Camilo Betancourt </h3>
